@@ -1,0 +1,19 @@
+LOG_LEVEL=3
+
+#System
+TIMEZONE=Asia/Shanghai
+
+#Zerotier
+ZEROTIER_NETWORKID=xxxxxxxxxxxxx
+
+#dynv6
+#Update with IPv6 address or not
+DYNV6_WITH_IPV6=0
+DYNV6_TOKEN=yyyyyyyyyyyyyyyyyyyyyyyyy
+DYNV6_HOSTS="domain1.dns.army domain2.dns.army domain3.dns.army"
+
+#shadowsocks server
+SHADOWSOCKS_PORT=8060
+SHADOWSOCKS_PASSWD="ppppppppppp"
+SHADOWSOCKS_METHOD=aes-256-cfb
+
